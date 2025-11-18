@@ -1,0 +1,7 @@
+{
+  "name": "Bussruta: Nations - v11 Melding til Firebase",
+  "description": "alt funker tror jeg, litt bugs men men\n\n< fjerne ai",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
